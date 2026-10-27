@@ -16,15 +16,15 @@
 ## `> whoami`
 
 ```text
-Name     : Avraham (Avi) Abel
-Role     : Computer Systems Technician
+Name    : Avraham (Avi) Abel
+Role    : Computer Systems Technician
 Education: Ontario College Diploma, Seneca Polytechnic (CSN)
-Location : Toronto, Ontario, Canada
-Focus    : Systems administration, networking, cloud, security
-Status   : Open to IT, systems and network administration roles
+Location: Toronto, Ontario, Canada
+Focus   : Systems administration, networking, cloud, security
+Status  : Open to IT, systems and network administration roles
 ```
 
-I'm a graduate of the **Computer Systems Technician (CSN)** program at **Seneca Polytechnic**, with hands-on training in networking, operating systems, security and cloud computing. I administer **Linux/UNIX** and **Microsoft** environments, deploy and load balance services in **Microsoft Azure** and **AWS**, and automate routine administration with **Bash** and **Python**. I value reliable systems, clear documentation and methodical problem-solving.
+I graduated from the **Computer Systems Technician (CSN)** program at **Seneca Polytechnic**, with hands-on training in networking, operating systems, security, and cloud computing. I administer **Linux/UNIX** and **Microsoft** environments, deploy and load-balance services in **Microsoft Azure** and **AWS**, and automate routine administration with **Bash** and **Python**. I value reliable systems, clear documentation and methodical problem-solving.
 
 ---
 
