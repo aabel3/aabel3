@@ -49,13 +49,13 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 
 | Area | Skills & Technologies |
 |---|---|
-| **Operating Systems** | Linux (Ubuntu, Linux Mint), Windows Server, Active Directory |
+| **Operating Systems** | Linux (Ubuntu, Linux Mint, Debian 13, Kali), Windows Server, Windows (10/11), Active Directory |
 | **Scripting & Automation** | Bash, Python, cron scheduling, log parsing |
-| **Virtualization** | KVM, libvirt, virsh, VM backup and restore |
-| **Cloud** | Microsoft Azure, AWS, load balancing, domain services |
-| **Networking** | LAN/WAN fundamentals, wireless and software-defined networks |
+| **Virtualization** | VMware Workstation Pro, vSphere, VSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
+| **Cloud** | Microsoft Azure, Amazon Workstation (AWS), load balancing, domain services |
+| **Networking** | LAN/WAN fundamentals (using Cisco and Aruba), wireless and software-defined networks |
 | **Web & Databases** | LAMP stack, WordPress self-hosting, MySQL |
-| **Tools** | Git, GitHub, Microsoft Office |
+| **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio (ver. 22), Microsoft Office |
 
 ---
 
