@@ -26,7 +26,7 @@
 | **Interests** | Linux, cloud infrastructure, networking, automation |
 | **Looking for** | Systems administration, network administration and IT support roles |
 
-I graduated from the **Computer Systems Technician (CSN)** program at **Seneca Polytechnic**, with hands-on training in networking, operating systems, security, and cloud computing. I administer **Linux/UNIX** and **Microsoft** environments, deploy and load-balance services in **Microsoft Azure** and **AWS**, and automate routine administration with **Bash** and **Python**. I value reliable systems, clear documentation and methodical problem-solving.
+I graduated from the **Computer Systems Technician (CSN)** program at **Seneca Polytechnic**, with hands-on training in networking, operating systems, security, and cloud computing. I administer **Linux/UNIX** and **Microsoft** environments, deploy and load-balance services in **Microsoft Azure** and **Amazon Workstation (AWS)**, and automate routine administration with **Bash** and **Python**. I value reliable systems, clear documentation and methodical problem-solving.
 
 ---
 
