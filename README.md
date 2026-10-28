@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:3b5998,100:00ff41&height=200&section=header&text=AVRAHAM%20ABEL&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Systems%20Technician%20%7C%20Linux%20%7C%20Cloud%20%7C%20Networking&descAlignY=60&descSize=16" width="100%" alt="Avraham Abel banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:3b5998,100:00ff41&height=200&section=header&text=AVRAHAM%20ABEL&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Systems%20Technician%20%7C%20Linux%20%7C%20Cloud%20%7C%20Networking&descAlignY=60&descSize=16" width="100%" alt="Avraham Lewis Abel banner">
 
 <p align="center">
   <a href="https://github.com/aabel3">
@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Name** | Avraham (Avi) Abel |
+| **Name** | Avraham (Avi) Lewis Abel |
 | **Role** | Computer Systems Technician |
 | **Network** | Seneca Polytechnic, Toronto |
 | **Education** | Computer Systems Technician (CSN), Ontario College Diploma |
