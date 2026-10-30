@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="170" viewBox="0 0 495 170" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Python 71.20%, Shell 28.41%, PHP 0.38%</desc>
+  <defs>
+    <clipPath id="bar">
+      <rect x="25" y="62" width="445" height="12" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card -->
+  <rect x="0.5" y="0.5" width="494" height="169" rx="8" fill="#ffffff" stroke="#3b5998"/>
+  <rect x="0.5" y="0.5" width="494" height="6" rx="3" fill="#3b5998"/>
+
+  <!-- Title -->
+  <text x="25" y="40" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#3b5998">Most Used Languages</text>
+
+  <!-- Stacked bar -->
+  <g clip-path="url(#bar)">
+    <rect x="25" y="62" width="445" height="12" fill="#e9ebee"/>
+    <rect x="25" y="62" width="316.84" height="12" fill="#3b5998"/>
+    <rect x="341.84" y="62" width="126.42" height="12" fill="#8b9dc3"/>
+    <rect x="468.26" y="62" width="1.69" height="12" fill="#2f4373"/>
+  </g>
+
+  <!-- Legend -->
+  <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#333333">
+    <circle cx="31" cy="107" r="5" fill="#3b5998"/>
+    <text x="45" y="111">Python 71.20%</text>
+
+    <circle cx="256" cy="107" r="5" fill="#8b9dc3"/>
+    <text x="270" y="111">Shell 28.41%</text>
+
+    <circle cx="31" cy="137" r="5" fill="#2f4373"/>
+    <text x="45" y="141">PHP 0.38%</text>
+  </g>
+</svg>
