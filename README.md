@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/aabel3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=4267B2&background=00000000&center=true&vCenter=true&width=700&lines=Linux+%26+Windows+Server+Administration;Cloud+Services+on+Azure+and+AWS;Networking%2C+Security+%26+Automation;Open+to+new+opportunities" alt="Focus areas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=4267B2&background=00000000&center=true&vCenter=true&width=700&lines=Linux+%26+Windows+Server+Administration;Cloud+Services+on+Azure+and+Amazon Web Station (AWS);Networking%2C+Security+%26+Automation;Open+to+new+opportunities" alt="Focus areas">
   </a>
 </p>
 
