@@ -21,7 +21,7 @@
 | **Name** | Avraham (Avi) Lewis Abel |
 | **Role** | Computer Systems Technician |
 | **Network** | Seneca Polytechnic, Toronto |
-| **Education** | Computer Systems Technician (CSN), Ontario College Diploma |
+| **Education** | Computer Systems Technician (CSN), Ontario College Diploma with Honours |
 | **Location** | Toronto, Ontario, Canada |
 | **Interests** | Linux, cloud infrastructure, networking, automation |
 | **Status** | Open to systems administration, network administration and IT support roles |
@@ -34,7 +34,6 @@ I graduated from the **Computer Systems Technician (CSN)** program at **Seneca P
 
 **Computer Systems Technician (CSN)**, Ontario College Diploma
 Seneca Polytechnic, School of Information Technology Administration & Security
-
 - Linux/UNIX and Microsoft system administration
 - Local and wide area networks, wireless and software-defined networks
 - Cloud services and on-premises deployment
@@ -43,25 +42,23 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Skills &nbsp;`> ls ~/skills`
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,azure,aws,mysql,wordpress,git,github,vscode&perline=12" alt="Technology icons">
 </p>
 
 | Area | Skills & Technologies |
 |---|---|
-| **Operating Systems** | Linux (Ubuntu, Linux Mint, Debian 13, Kali), Windows Server, Windows 10/11, Active Directory |
-| **Scripting & Automation** | Bash, Python, cron scheduling, log parsing |
+| **Operating Systems** | Linux (Ubuntu, Mint, Debian, Kali), Windows Server, Windows 10/11, Active Directory |
+| **Scripting & Automation** | Bash, Python, Web development (HTML, CSS, JavaScript), cron scheduling, log parsing |
 | **Virtualization** | VMware Workstation Pro, vSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
 | **Cloud** | Microsoft Azure, Amazon Web Services (AWS), load balancing, domain services |
 | **Networking** | LAN/WAN fundamentals (Cisco and Aruba), wireless and software-defined networks |
 | **Web & Databases** | LAMP stack, WordPress self-hosting, MySQL |
-| **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office |
+| **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office, Notepad + |
 
 ---
 
 ## Projects &nbsp;`> cd ~/projects`
-
 | Project | What it does |
 |---|---|
 | [**Linux System Administrator Bash Scripts**](https://github.com/aabel3/Linux-System-Administrator-Bash-Scripts) | KVM/libvirt admin toolkit: VM backup and restore, disk monitoring, ping tests and system health checks |
@@ -75,16 +72,15 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Roles I'm Looking For &nbsp;`> cat career_goals.txt`
-
 - Systems administrator or junior systems administrator
 - Network administrator or computer network technician
 - Technical support specialist or helpdesk support
 - Linux or cloud support
+- IT Helpdesk representative 
 
 ---
 
 ## Most Used Languages &nbsp;`> cat languages.txt`
-
 <!-- This chart is the file languages.svg in this repository. To update it, edit the percentages and bar widths in that file. -->
 <p align="center">
   <img src="languages.svg" width="495" alt="Most Used Languages: Python 71.20%, Shell 28.41%, PHP 0.38%">
@@ -93,7 +89,5 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Connect &nbsp;`> ./contact.sh`
-
 Interested in working together or have an opportunity in mind? Let's connect on [LinkedIn](https://www.linkedin.com/in/avraham-abel/) or follow my work on [GitHub](https://github.com/aabel3).
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b9dc3,100:3b5998&height=100&section=footer" width="100%" alt="footer">
