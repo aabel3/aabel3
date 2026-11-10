@@ -45,7 +45,7 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ## Skills &nbsp;`> ls ~/skills`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,azure,aws,mysql,wordpress,git,github,vscode&perline=12" alt="Technology icons">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,html,azure,aws,mysql,wordpress,git,github,vscode&perline=13" alt="Technology icons">
 </p>
 
 | Area | Skills & Technologies |
@@ -55,7 +55,7 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 | **Virtualization** | VMware Workstation Pro, vSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
 | **Cloud** | Microsoft Azure, Amazon Web Services (AWS), load balancing, domain services |
 | **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 and 2540 switch configuration, VLANs, LACP trunking, DHCP, SSH, wireless and software-defined networks |
-| **Web & Databases** | Apache web server, LAMP stack, WordPress self-hosting, MySQL |
+| **Web & Databases** | HTML, Apache web server, LAMP stack, WordPress self-hosting, MySQL |
 | **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office |
 
 ---
@@ -87,9 +87,9 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 
 ## Most Used Languages &nbsp;`> cat languages.txt`
 
-<!-- This chart is the file languages.svg in this repository. To update it, edit the percentages and bar widths in that file. -->
+<!-- languages.svg is regenerated automatically every day by .github/workflows/update-languages.yml (script: update_languages.py). Do not edit it by hand. -->
 <p align="center">
-  <img src="languages.svg" width="495" alt="Most Used Languages: Python 71.20%, Shell 28.41%, PHP 0.38%">
+  <img src="languages.svg" width="495" alt="Most used languages across my public repositories, updated automatically">
 </p>
 
 ---
