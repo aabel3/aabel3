@@ -1,0 +1,41 @@
+name: Update languages chart
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every day at 06:00 UTC
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - update_languages.py
+      - .github/workflows/update-languages.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate languages.svg
+        run: python update_languages.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Commit if the chart changed
+        run: |
+          if [ -z "$(git status --porcelain languages.svg)" ]; then
+            echo "Chart unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git commit -m "Update languages chart"
+          git push
