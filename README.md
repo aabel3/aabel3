@@ -54,8 +54,8 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 | **Scripting & Automation** | Bash, Python, cron scheduling, log parsing |
 | **Virtualization** | VMware Workstation Pro, vSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
 | **Cloud** | Microsoft Azure, Amazon Web Services (AWS), load balancing, domain services |
-| **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 switch configuration, VLANs, DHCP, SSH, wireless and software-defined networks |
-| **Web & Databases** | LAMP stack, WordPress self-hosting, MySQL |
+| **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 and 2540 switch configuration, VLANs, LACP trunking, DHCP, SSH, wireless and software-defined networks |
+| **Web & Databases** | Apache web server, LAMP stack, WordPress self-hosting, MySQL |
 | **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office |
 
 ---
@@ -64,6 +64,7 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 
 | Project | What it does |
 |---|---|
+| [**Aruba 6300 & 2540: LACP Trunk and Apache Web Server**](https://github.com/aabel3/Aruba-6300-2540-LACP-Trunk-and-Apache-Web-Server) | Aruba 6300 and 2540 switch configuration with an LACP trunk (link aggregation) and an Apache web server |
 | [**Aruba 6300 Switch: VLANs, DHCP & SSH**](https://github.com/aabel3/Aruba-6300-Switch-VLANs-DHCP-SSH) | Aruba 6300 switch configuration covering VLAN segmentation, DHCP and secure SSH access |
 | [**Linux System Administrator Bash Scripts**](https://github.com/aabel3/Linux-System-Administrator-Bash-Scripts) | KVM/libvirt admin toolkit: VM backup and restore, disk monitoring, ping tests and system health checks |
 | [**Python Load Balancer Monitor**](https://github.com/aabel3/Python-Load-balancer-monitor) | Monitors the health of a load-balanced setup |
