@@ -62,17 +62,17 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 
 ## Projects &nbsp;`> cd ~/projects`
 
-| Project | What it does |
-|---|---|
-| [**Aruba 6300 & 2540: LACP Trunk and Apache Web Server**](https://github.com/aabel3/Aruba-6300-2540-LACP-Trunk-and-Apache-Web-Server) | Aruba 6300 and 2540 switch configuration with an LACP trunk (link aggregation) and an Apache web server |
-| [**Aruba 6300 Switch: VLANs, DHCP & SSH**](https://github.com/aabel3/Aruba-6300-Switch-VLANs-DHCP-SSH) | Aruba 6300 switch configuration covering VLAN segmentation, DHCP and secure SSH access |
-| [**Linux System Administrator Bash Scripts**](https://github.com/aabel3/Linux-System-Administrator-Bash-Scripts) | KVM/libvirt admin toolkit: VM backup and restore, disk monitoring, ping tests and system health checks |
-| [**Python Load Balancer Monitor**](https://github.com/aabel3/Python-Load-balancer-monitor) | Monitors the health of a load-balanced setup |
-| [**Python Log File Parsing**](https://github.com/aabel3/Python-Parsing-a-log-file-in-2) | Parses and analyzes log files |
-| [**Ubuntu LAMP Stack**](https://github.com/aabel3/Ubuntu-LAMP-Stack) | LAMP stack and self-hosted WordPress site on Ubuntu |
-| [**Ubuntu & Mint Deployment + Bash Basics**](https://github.com/aabel3/Ubuntu-Mint-Deployment-And-Bash-Scripting-Basics) | Linux VM deployment and Bash scripting fundamentals |
-| [**Active Directory Domain Services in Azure**](https://github.com/aabel3/Active-Directory-Domain-Services-in-Mircosoft-Azure) | Domain service set up in Microsoft Azure |
-| [**Load Balancing Websites in Azure**](https://github.com/aabel3/Load-Balancing-Websites-in-Microsoft-Azure) | Website deployment and load balancing in Microsoft Azure |
+| Category | Project | What it does |
+|---|---|---|
+| **Cloud (Azure)** | [**Active Directory Domain Services in Azure**](https://github.com/aabel3/Active-Directory-Domain-Services-in-Mircosoft-Azure) | Domain service set up in Microsoft Azure |
+|  | [**Load Balancing Websites in Azure**](https://github.com/aabel3/Load-Balancing-Websites-in-Microsoft-Azure) | Website deployment and load balancing in Microsoft Azure |
+| **Linux & Scripting** | [**Linux System Administrator Bash Scripts**](https://github.com/aabel3/Linux-System-Administrator-Bash-Scripts) | KVM/libvirt admin toolkit: VM backup and restore, disk monitoring, ping tests and system health checks |
+|  | [**Ubuntu & Mint Deployment + Bash Basics**](https://github.com/aabel3/Ubuntu-Mint-Deployment-And-Bash-Scripting-Basics) | Linux VM deployment and Bash scripting fundamentals |
+| **Networking** | [**Aruba 6300 & 2540: LACP Trunk and Apache Web Server**](https://github.com/aabel3/Aruba-6300-2540-LACP-Trunk-and-Apache-Web-Server) | Aruba 6300 and 2540 switch configuration with an LACP trunk (link aggregation) and an Apache web server |
+|  | [**Aruba 6300 Switch: VLANs, DHCP & SSH**](https://github.com/aabel3/Aruba-6300-Switch-VLANs-DHCP-SSH) | Aruba 6300 switch configuration covering VLAN segmentation, DHCP and secure SSH access |
+| **Python & Web** | [**Python Load Balancer Monitor**](https://github.com/aabel3/Python-Load-balancer-monitor) | Monitors the health of a load-balanced setup |
+|  | [**Python Log File Parsing**](https://github.com/aabel3/Python-Parsing-a-log-file-in-2) | Parses and analyzes log files |
+|  | [**Ubuntu LAMP Stack**](https://github.com/aabel3/Ubuntu-LAMP-Stack) | LAMP stack and self-hosted WordPress site on Ubuntu |
 
 ---
 
