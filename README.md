@@ -50,12 +50,12 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 
 | Area | Skills & Technologies |
 |---|---|
-| **Operating Systems** | Linux (Ubuntu, Mint, Debian, Kali), Windows Server, Windows 10/11, Active Directory |
+| **Operating Systems** | Linux (Ubuntu, Linux Mint, Debian 13, Kali), Windows Server, Windows 10/11, Active Directory |
 | **Scripting & Automation** | Bash, Python, cron scheduling, log parsing |
 | **Virtualization** | VMware Workstation Pro, vSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
 | **Cloud** | Microsoft Azure, Amazon Web Services (AWS), load balancing, domain services |
-| **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 and 2540 switch configuration, VLANs, LACP trunking, DHCP, SSH, wireless and software-defined networks |
-| **Web & Databases** | HTML, Apache web server, LAMP stack, WordPress self-hosting, MySQL |
+| **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 and 2540 switch configuration, VLANs, LACP trunking, OSPF routing, DHCP, SSH, nftables firewall, wireless and software-defined networks |
+| **Web & Databases** | HTML, Apache web server, LAMP stack, WordPress self-hosting, MySQL, MariaDB |
 | **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office |
 
 ---
@@ -69,6 +69,7 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 | **Linux & Scripting** | [**Linux System Administrator Bash Scripts**](https://github.com/aabel3/Linux-System-Administrator-Bash-Scripts) | KVM/libvirt admin toolkit: VM backup and restore, disk monitoring, ping tests and system health checks |
 |  | [**Ubuntu & Mint Deployment + Bash Basics**](https://github.com/aabel3/Ubuntu-Mint-Deployment-And-Bash-Scripting-Basics) | Linux VM deployment and Bash scripting fundamentals |
 | **Networking** | [**Aruba 6300 & 2540: LACP Trunk and Apache Web Server**](https://github.com/aabel3/Aruba-6300-2540-LACP-Trunk-and-Apache-Web-Server) | Aruba 6300 and 2540 switch configuration with an LACP trunk (link aggregation) and an Apache web server |
+|  | [**Aruba 6300 & 2540: OSPF Routing, MariaDB and nftables**](https://github.com/aabel3/Aruba-6300-2540-OSPF-Routing-MariaDB-and-nftables) | Aruba 6300 and 2540 switch configuration with OSPF dynamic routing, a MariaDB database server and an nftables firewall |
 |  | [**Aruba 6300 Switch: VLANs, DHCP & SSH**](https://github.com/aabel3/Aruba-6300-Switch-VLANs-DHCP-SSH) | Aruba 6300 switch configuration covering VLAN segmentation, DHCP and secure SSH access |
 | **Python & Web** | [**Python Load Balancer Monitor**](https://github.com/aabel3/Python-Load-balancer-monitor) | Monitors the health of a load-balanced setup |
 |  | [**Python Log File Parsing**](https://github.com/aabel3/Python-Parsing-a-log-file-in-2) | Parses and analyzes log files |
