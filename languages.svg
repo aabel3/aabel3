@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="200" viewBox="0 0 495 200" role="img" aria-labelledby="title desc">
   <title id="title">Most Used Languages</title>
-  <desc id="desc">Python 63.29%, Shell 32.36%, HTML 2.89%, Vim Snippet 1.15%, PHP 0.30%</desc>
+  <desc id="desc">Python 57.48%, Shell 38.57%, HTML 2.63%, Vim Snippet 1.05%, PHP 0.28%</desc>
   <defs>
     <clipPath id="bar">
       <rect x="25" y="62" width="445" height="12" rx="6"/>
@@ -17,24 +17,24 @@
   <!-- Stacked bar -->
   <g clip-path="url(#bar)">
     <rect x="25" y="62" width="445" height="12" fill="#e9ebee"/>
-    <rect x="25.00" y="62" width="281.65" height="12" fill="#3b5998"/>
-    <rect x="306.65" y="62" width="144.00" height="12" fill="#8b9dc3"/>
-    <rect x="450.65" y="62" width="12.87" height="12" fill="#2f4373"/>
-    <rect x="463.52" y="62" width="5.13" height="12" fill="#4267b2"/>
-    <rect x="468.65" y="62" width="1.35" height="12" fill="#b3bfd9"/>
+    <rect x="25.00" y="62" width="255.79" height="12" fill="#3b5998"/>
+    <rect x="280.79" y="62" width="171.64" height="12" fill="#8b9dc3"/>
+    <rect x="452.43" y="62" width="11.69" height="12" fill="#2f4373"/>
+    <rect x="464.12" y="62" width="4.66" height="12" fill="#4267b2"/>
+    <rect x="468.78" y="62" width="1.22" height="12" fill="#b3bfd9"/>
   </g>
 
   <!-- Legend -->
   <g font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#333333">
     <circle cx="31" cy="107" r="5" fill="#3b5998"/>
-    <text x="45" y="111">Python 63.29%</text>
+    <text x="45" y="111">Python 57.48%</text>
     <circle cx="256" cy="107" r="5" fill="#8b9dc3"/>
-    <text x="270" y="111">Shell 32.36%</text>
+    <text x="270" y="111">Shell 38.57%</text>
     <circle cx="31" cy="137" r="5" fill="#2f4373"/>
-    <text x="45" y="141">HTML 2.89%</text>
+    <text x="45" y="141">HTML 2.63%</text>
     <circle cx="256" cy="137" r="5" fill="#4267b2"/>
-    <text x="270" y="141">Vim Snippet 1.15%</text>
+    <text x="270" y="141">Vim Snippet 1.05%</text>
     <circle cx="31" cy="167" r="5" fill="#b3bfd9"/>
-    <text x="45" y="171">PHP 0.30%</text>
+    <text x="45" y="171">PHP 0.28%</text>
   </g>
 </svg>
