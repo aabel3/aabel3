@@ -15,13 +15,12 @@
 ---
 
 ## Profile &nbsp;`> whoami`
-
 | | |
 |---|---|
 | **Name** | Avraham (Avi) Lewis Abel |
 | **Role** | Computer Systems Technician |
 | **Network** | Seneca Polytechnic, Toronto |
-| **Education** | Computer Systems Technician (CSN), Ontario College Diploma with Honours |
+| **Education** | Computer Systems Technician (CSN), Ontario College Diploma with Honours|
 | **Location** | Toronto, Ontario, Canada |
 | **Interests** | Linux, cloud infrastructure, networking, automation |
 | **Status** | Open to systems administration, network administration and IT support roles |
@@ -31,7 +30,6 @@ I graduated from the **Computer Systems Technician (CSN)** program at **Seneca P
 ---
 
 ## Education &nbsp;`> cat education.txt`
-
 **Computer Systems Technician (CSN)**, Ontario College Diploma
 Seneca Polytechnic, School of Information Technology Administration & Security
 
@@ -43,7 +41,6 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Skills &nbsp;`> ls ~/skills`
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,html,azure,aws,docker,kubernetes,kafka,mysql,wordpress,git,github,vscode&perline=8" alt="Technology icons">
 </p>
@@ -51,10 +48,11 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 | Area | Skills & Technologies |
 |---|---|
 | **Operating Systems** | Linux (Ubuntu, Linux Mint, Debian, Kali), Windows Server, Windows 10/11, Active Directory |
-| **Scripting & Automation** | Bash, Python, PowerShell, cron scheduling, log parsing |
+| **Scripting & Automation** | Bash, Python, cron scheduling, log parsing |
 | **Virtualization** | VMware Workstation Pro, vSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
 | **Cloud** | Microsoft Azure, Amazon Web Services (AWS), load balancing, domain services |
 | **Containers & Streaming** | Docker, Kubernetes (Minikube), Apache Kafka, real-time IoT dashboards |
+| **Security & AI** | Cyberthreat detection, PrivateGPT |
 | **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 and 2540 switch configuration, VLANs, LACP trunking, OSPF routing, DHCP, SSH, nftables firewall, wireless and software-defined networks |
 | **Web & Databases** | HTML, Apache web server, LAMP stack, WordPress self-hosting, MySQL, MariaDB |
 | **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office |
@@ -62,7 +60,6 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Projects &nbsp;`> cd ~/projects`
-
 | Category | Project | What it does |
 |---|---|---|
 | **Cloud (Azure)** | [**Active Directory Domain Services in Azure**](https://github.com/aabel3/Active-Directory-Domain-Services-in-Mircosoft-Azure) | Domain service set up in Microsoft Azure |
@@ -77,11 +74,11 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 | **Python & Web** | [**Python Load Balancer Monitor**](https://github.com/aabel3/Python-Load-balancer-monitor) | Monitors the health of a load-balanced setup |
 |  | [**Python Log File Parsing**](https://github.com/aabel3/Python-Parsing-a-log-file-in-2) | Parses and analyzes log files |
 |  | [**Ubuntu LAMP Stack**](https://github.com/aabel3/Ubuntu-LAMP-Stack) | LAMP stack and self-hosted WordPress site on Ubuntu |
+| **Security & AI** | [**TML Cisco Cyberthreat Detection with PrivateGPT and Docker**](https://github.com/aabel3/TML-Cisco-Cyberthreat-Detection-PrivateGPT-Docker) | Cyberthreat detection for Cisco data using PrivateGPT, deployed in Docker |
 
 ---
 
 ## Roles I'm Looking For &nbsp;`> cat career_goals.txt`
-
 - Systems administrator or junior systems administrator
 - Network administrator or computer network technician
 - Technical support specialist or helpdesk support
@@ -90,7 +87,6 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Most Used Languages &nbsp;`> cat languages.txt`
-
 <!-- languages.svg is regenerated automatically every day by .github/workflows/update-languages.yml (script: update_languages.py). Do not edit it by hand. -->
 <p align="center">
   <img src="languages.svg" width="495" alt="Most used languages across my public repositories, updated automatically">
@@ -99,7 +95,5 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ---
 
 ## Connect &nbsp;`> ./contact.sh`
-
 Interested in working together or have an opportunity in mind? Let's connect on [LinkedIn](https://www.linkedin.com/in/avraham-abel/) or follow my work on [GitHub](https://github.com/aabel3).
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b9dc3,100:3b5998&height=100&section=footer" width="100%" alt="footer">
