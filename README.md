@@ -21,7 +21,7 @@
 | **Name** | Avraham (Avi) Lewis Abel |
 | **Role** | Computer Systems Technician |
 | **Network** | Seneca Polytechnic, Toronto |
-| **Education** | Computer Systems Technician (CSN), Ontario College Diploma |
+| **Education** | Computer Systems Technician (CSN), Ontario College Diploma with Honours |
 | **Location** | Toronto, Ontario, Canada |
 | **Interests** | Linux, cloud infrastructure, networking, automation |
 | **Status** | Open to systems administration, network administration and IT support roles |
@@ -45,7 +45,7 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 ## Skills &nbsp;`> ls ~/skills`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,html,azure,aws,mysql,wordpress,git,github,vscode&perline=13" alt="Technology icons">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,html,azure,aws,docker,kubernetes,kafka,mysql,wordpress,git,github,vscode&perline=8" alt="Technology icons">
 </p>
 
 | Area | Skills & Technologies |
@@ -54,6 +54,7 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 | **Scripting & Automation** | Bash, Python, cron scheduling, log parsing |
 | **Virtualization** | VMware Workstation Pro, vSphere, VirtualBox, KVM, libvirt, virsh, VM backup and restore |
 | **Cloud** | Microsoft Azure, Amazon Web Services (AWS), load balancing, domain services |
+| **Containers & Streaming** | Docker, Kubernetes (Minikube), Apache Kafka, real-time IoT dashboards |
 | **Networking** | LAN/WAN fundamentals (Cisco and Aruba), Aruba 6300 and 2540 switch configuration, VLANs, LACP trunking, OSPF routing, DHCP, SSH, nftables firewall, wireless and software-defined networks |
 | **Web & Databases** | HTML, Apache web server, LAMP stack, WordPress self-hosting, MySQL, MariaDB |
 | **Tools** | Git, GitHub, Visual Studio Code, SQL Server Management Studio 22, Microsoft Office |
@@ -66,6 +67,8 @@ Seneca Polytechnic, School of Information Technology Administration & Security
 |---|---|---|
 | **Cloud (Azure)** | [**Active Directory Domain Services in Azure**](https://github.com/aabel3/Active-Directory-Domain-Services-in-Mircosoft-Azure) | Domain service set up in Microsoft Azure |
 |  | [**Load Balancing Websites in Azure**](https://github.com/aabel3/Load-Balancing-Websites-in-Microsoft-Azure) | Website deployment and load balancing in Microsoft Azure |
+| **Containers & Kubernetes** | [**Docker TML Kafka IoT Real-Time Dashboard**](https://github.com/aabel3/Docker-TML-Kafka-IoT-Real-Time-Dashboard) | Docker-based real-time IoT dashboard using Kafka for data streaming |
+|  | [**Kubernetes Minikube TML Dashboard Preprocessing**](https://github.com/aabel3/Kubernetes-Minikube-TML-Dashboard-Preprocessing) | Dashboard data preprocessing running on a local Kubernetes cluster with Minikube |
 | **Linux & Scripting** | [**Linux System Administrator Bash Scripts**](https://github.com/aabel3/Linux-System-Administrator-Bash-Scripts) | KVM/libvirt admin toolkit: VM backup and restore, disk monitoring, ping tests and system health checks |
 |  | [**Ubuntu & Mint Deployment + Bash Basics**](https://github.com/aabel3/Ubuntu-Mint-Deployment-And-Bash-Scripting-Basics) | Linux VM deployment and Bash scripting fundamentals |
 | **Networking** | [**Aruba 6300 & 2540: LACP Trunk and Apache Web Server**](https://github.com/aabel3/Aruba-6300-2540-LACP-Trunk-and-Apache-Web-Server) | Aruba 6300 and 2540 switch configuration with an LACP trunk (link aggregation) and an Apache web server |
